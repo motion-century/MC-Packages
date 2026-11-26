@@ -1,0 +1,13 @@
+{
+  "product": "Motion Century Product Manager",
+  "latest": "0.1.0",
+  "releases": {
+    "0.1.0": {
+      "fileName": "Motion Century Product Manager_0.1.0_x64-setup.exe",
+      "downloadUrl": "https://packages.motioncentury.com/ProductManager/Motion%20Century%20Product%20Manager_0.1.0_x64-setup.exe",
+      "sha256": "627941d61b6645cdaa268bdc927fe77c7801dd4945fd727d98307234c46eb0fc",
+      "sizeBytes": 2995058,
+      "signature": "j7xAoS7MYLwf44sG4+7n6JzJ3caFYiNuJlD3gKyT8q5b5pGSEZ9gFOo1mAdrLoCe6XgYRF+L2MmD2uVY5hNevs+iuKEvpyhMILQjCqvkjtziaZsgxDhGAB4QK9MkcPYE6vBN2ehrUli2mflbMUfo04TyGUw/aCXdyCFHq+Tq77/Zn18f/H2RhmEEPUGYWSFFn1XDerhBujSecVHf7xUpTW3yObSYfpsoq7r3umtlqt2wCmEgGas0pg+BREDZAgxiLT9+ho5vt3aDNqpHqOStkYv7GU/onZpNakXLPi0tu2vXAj1jxor8Jhto7QEZTzeSejfFDwZKadMBXxJjxxVtpQ=="
+    }
+  }
+}
